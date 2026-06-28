@@ -50,7 +50,7 @@ I enjoy taking ideas from **Architecture → Development → Deployment → Moni
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: - 💼 LinkedIn: [https://www.linkedin.com/in/safiahasansyed/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/safiahasansyed/]
 - 📧 Email: safiahasan29@gmail.com
 
 ---
