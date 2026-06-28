@@ -10,152 +10,46 @@
 
 I'm passionate about designing **scalable, secure, resilient, and cost-optimized Cloud & AI solutions** that help organizations build modern, production-ready platforms.
 
-My interests span across:
+My interests include **Cloud Architecture, Solution Architecture, Generative AI, Agentic AI, MLOps, Kubernetes, CI/CD, Infrastructure as Code, Enterprise System Design, Observability, and Performance Engineering.**
 
-- ☁️ Cloud Architecture
-- 🏗️ Solution Architecture
-- 🤖 Generative AI
-- 🧠 Agentic AI
-- 🚀 MLOps
-- ☸️ Kubernetes
-- ⚙️ CI/CD
-- 🏗️ Infrastructure as Code
-- 📈 Observability
-- 🔍 Debugging & Troubleshooting
-- 💡 Enterprise System Design
+I enjoy taking ideas from **Architecture → Development → Deployment → Monitoring**, building reliable AI applications, and continuously learning emerging technologies.
 
-I enjoy taking ideas from **Architecture → Development → Deployment → Monitoring**, building reliable, production-ready applications while continuously learning modern AI technologies.
-
-Beyond building software, I enjoy **sharing knowledge with the community** by creating **professional infographics and architecture diagrams** that simplify complex Cloud, AI, MLOps, Kubernetes, Amazon Bedrock, and System Design concepts into easy-to-understand visual learning resources.
+Beyond building software, I enjoy **sharing knowledge with the community** by creating professional **infographics and architecture diagrams** that simplify complex Cloud, AI, MLOps, Amazon Bedrock, Kubernetes, and System Design concepts into easy-to-understand visual learning resources.
 
 ---
 
-## 🌟 What I'm Working On
+## 🌟 What I'm Up To
 
-### 🔭 Currently Working On
+🔭 **Currently Working On:** Building production-ready **Agentic AI applications** with CrewAI, learning how to deploy AI applications on **Amazon Bedrock**, exploring multi-agent architectures, and building end-to-end **MLOps pipelines** using MLflow, DVC, Kubernetes, and KServe.
 
-- 🤖 Building production-ready **Agentic AI applications** using CrewAI
-- ☁️ Learning how to deploy AI applications on **Amazon Bedrock**
-- 🚀 Exploring how to transform AI applications into **multi-agent systems** using CrewAI
-- ⚙️ Building end-to-end **MLOps pipelines** using MLflow, DVC, Kubernetes, and KServe
-- 🏗️ Designing enterprise Cloud & AI architectures on AWS
+🌱 **Currently Learning:** Amazon Bedrock, Bedrock AgentCore, Model Context Protocol (MCP), Multi-Agent AI Systems, KServe, Advanced MLOps, Enterprise AI Platforms, and AI System Design.
 
-### 🌱 Currently Learning
+👯 **Looking to Collaborate On:** Cloud Architecture, Amazon Bedrock, Generative AI, Agentic AI, MLOps, Kubernetes, Infrastructure as Code, CI/CD, and Open Source AI projects.
 
-- Amazon Bedrock
-- Bedrock AgentCore
-- Model Context Protocol (MCP)
-- Multi-Agent AI Systems
-- Advanced MLOps
-- KServe
-- MLflow
-- DVC
-- Enterprise AI Platforms
-- AI System Design
+🤝 **Looking for Help With:** Enterprise AI Platforms, Production AI Deployments, Large-Scale MLOps Architectures, and Advanced Bedrock AgentCore patterns.
 
-### 👯 Looking to Collaborate On
-
-- Cloud Architecture
-- Amazon Bedrock
-- Agentic AI
-- Generative AI
-- MLOps
-- Kubernetes
-- Infrastructure as Code
-- Open Source AI Projects
-
-### 🤝 Looking for Help With
-
-- Enterprise AI Platform Design
-- Large-scale MLOps Architecture
-- Production AI Deployments
-- Advanced Bedrock AgentCore Patterns
-
-### 💬 Ask Me About
-
-- AWS
-- Amazon Bedrock
-- CrewAI
-- Agentic AI
-- RAG
-- LLMs
-- MLOps
-- Kubernetes
-- Docker
-- Terraform
-- GitHub Actions
-- CI/CD
-- MLflow
-- DVC
-- KServe
-- System Design
-- Performance Engineering
-- Debugging & Troubleshooting
+💬 **Ask Me About:** AWS, Amazon Bedrock, CrewAI, Agentic AI, RAG, LLMs, MLOps, Kubernetes, Docker, Terraform, GitHub Actions, CI/CD, MLflow, DVC, KServe, System Design, Performance Engineering, and Cloud Troubleshooting.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
+**☁️ Cloud:** AWS, Amazon Bedrock, EC2, Lambda, EKS, ECS, IAM, VPC, Route 53, CloudFront, API Gateway, S3, DynamoDB, RDS, CloudWatch
 
-- AWS
-- Amazon Bedrock
-- EC2
-- Lambda
-- EKS
-- ECS
-- IAM
-- VPC
-- Route 53
-- CloudFront
-- API Gateway
-- S3
-- RDS
-- DynamoDB
-- CloudWatch
+**🤖 AI & Machine Learning:** Python, Generative AI, LLMs, Agentic AI, CrewAI, LangChain, Hugging Face, ChromaDB, Sentence Transformers, RAG
 
-### 🤖 AI & Machine Learning
+**🚀 MLOps:** MLflow, DVC, KServe, Docker, Kubernetes, FastAPI, Streamlit, Gradio
 
-- Python
-- Generative AI
-- Large Language Models (LLMs)
-- Agentic AI
-- CrewAI
-- LangChain
-- Hugging Face
-- ChromaDB
-- Sentence Transformers
-- Retrieval-Augmented Generation (RAG)
-
-### 🚀 MLOps
-
-- MLflow
-- DVC
-- KServe
-- Docker
-- Kubernetes
-- FastAPI
-- Streamlit
-- Gradio
-
-### ⚙️ DevOps
-
-- Git
-- GitHub
-- GitHub Actions
-- Terraform
-- Jenkins
-- Helm
-- Argo CD
+**⚙️ DevOps:** Git, GitHub, GitHub Actions, Terraform, Jenkins, Helm, Argo CD
 
 ---
 
 ## 📂 Featured Projects
 
-- ✈️ AI Vacation Planner (CrewAI)
+- ✈️ AI Vacation Planner (CrewAI Multi-Agent Application)
 - 🧠 Medical NLP RAG System
 - 🏥 Healthcare Risk Prediction MLOps Pipeline
-- ☁️ AWS Cloud Architecture Projects
+- ☁️ AWS Cloud Architecture & System Design
 - 🤖 Amazon Bedrock Applications
 - 🚀 End-to-End CI/CD & Kubernetes Deployments
 
@@ -163,40 +57,23 @@ Beyond building software, I enjoy **sharing knowledge with the community** by cr
 
 ## 🎯 My Goal
 
-To build **production-ready Cloud & AI platforms** by combining:
-
-- ☁️ Cloud Architecture
-- 🤖 AI Engineering
-- 🚀 MLOps
-- ⚙️ CI/CD
-- ☸️ Kubernetes
-- 🏗️ Infrastructure as Code
-- 📊 Observability
-- 🔒 Security
-- 📈 Scalability
-- 💰 Cost Optimization
+To build **production-ready Cloud & AI platforms** by combining **Cloud Architecture, AI Engineering, MLOps, Kubernetes, Infrastructure as Code, CI/CD, Security, Observability, Scalability, and Cost Optimization.**
 
 ---
 
 ## 💡 Beyond Coding
 
-I believe **the best way to learn is to teach.**
-
-I enjoy creating **professional infographics, architecture diagrams, and visual learning guides** that transform complex technical concepts into simple, practical explanations.
-
-Whether it's AWS, Amazon Bedrock, Agentic AI, MLOps, Kubernetes, CI/CD, or System Design, my goal is to help others understand complex architectures through clear, visual explanations.
+I believe **the best way to learn is to teach.** I enjoy creating professional **infographics, architecture diagrams, and visual learning guides** that transform complex Cloud, AI, Amazon Bedrock, MLOps, Kubernetes, CI/CD, and System Design concepts into simple, practical explanations that help others learn faster.
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: **Add your LinkedIn URL**
-- 📧 Email: **Add your preferred email address**
+💼 **LinkedIn:** *Add your LinkedIn URL*  
+📧 **Email:** *Add your email address*
 
 ---
 
-⭐ **Thanks for visiting my GitHub!**
+⭐ Thanks for visiting my GitHub! If you're interested in **Cloud Architecture, Amazon Bedrock, Generative AI, Agentic AI, MLOps, Kubernetes, or Enterprise System Design**, feel free to explore my repositories and connect.
 
-If you're interested in Cloud Architecture, Amazon Bedrock, Agentic AI, MLOps, Kubernetes, or Enterprise System Design, feel free to explore my repositories and connect.
-
-Happy Coding! 🚀
+**Happy Coding! 🚀**
